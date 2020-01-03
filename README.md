@@ -1,2 +1,2 @@
 # TargetInterview
-Ds Algo programs
+This repository contains my interview prep material
